@@ -1,11 +1,19 @@
-# Minh Trieu Truong
-
-**📞 Contact Information**  
-📱 (+84) 905.909.501 | 📍 Vietnam | ✉️ [trieutm.cis@gmail.com](mailto:trieutm.cis@gmail.com)
+### 
+**Minh Trieu T.**
 
 ---
 
-## 🎯 Objective and me
+### 📞 Contact Information 
+
+📱 (+84) 905.909.501 | 
+
+📍 Vietnam | 
+
+✉️ [trieutm.cis@gmail.com](mailto:trieutm.cis@gmail.com)
+
+---
+
+### 🎯 Objective and me
 - Highly motivated and results-driven AI engineer with a strong academic background and extensive research experience in Computer Vision and Natural Language Processing. 
 
 - Currently, working as a Data Scientist, particularly in Large Language Models (LLMs) and Vision Language Models (VLMs). 
@@ -16,7 +24,7 @@
 
 ---
 
-## 🎓 Education & Languages
+### 🎓 Education & Languages
 **🏫 Ho Chi Minh City University of Technology and Education**  
 *2021 – July 2025*  
 **High-Quality Program**
@@ -25,7 +33,7 @@
 - **Overall GPA**: 3.41/4.00 | **AI Specialization GPA**: 3.79/4.00
   
 
-### 🎓 Undergraduate Graduation Thesis  
+**🎓 Undergraduate Graduation Thesis**
 *January 2025 – June 2025*
 
 - **Thesis**: *“Integration of Large Language Models with Machine Translation for Medical Question Answering Systems”*  
@@ -34,7 +42,7 @@
 
 ---
 
-## 💻 Technical Skills
+### 💻 Technical Skills
 - **🔬 Specializations**:  
   - Computer Vision  
   - Image Processing  
